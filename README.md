@@ -17,7 +17,7 @@ Pick a Kaggle competition from the following list. You have the choice of comple
 **Team 3**
 1. Adam
 2. Brent
-3. Francisco
+3. Zayn
 
 ## Datasets
 
