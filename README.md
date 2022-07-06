@@ -2,6 +2,23 @@
 
 Pick a Kaggle competition from the following list. You have the choice of completing a regression problem, a classification problem, or an NLP problem involving either classification or sentiment analysis. Perform some EDA, and fit and evaluate at least two models on the dataset you've chosen.
 
+## Teams
+
+**Team 1**
+1. Larry
+2. Saba
+3. Vilo
+
+**Team 2**
+1. Anna
+2. Andy
+3. Francisco
+
+**Team 3**
+1. Adam
+2. Brent
+3. Francisco
+
 ## Datasets
 
 ### Regression
