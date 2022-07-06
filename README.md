@@ -32,13 +32,13 @@ Pick a Kaggle competition from the following list. You have the choice of comple
 ## Timeline
 
 - **9am**: Project introduction.
-- **10am**: By 10am, answer the [check-in form](https://forms.gle/kWcfTZjGRj18LHUz6) with the dataset you've chosen.
-- **4pm**: 3-minute lightning talks where you walk us through your process. **No slides necessary** -- it's fine if you'd prefer walk us through your Jupyter notebook instead, but remember you only have 3 minutes!
+- **10am**: By 10am, answer the [check-in form](https://forms.gle/H8TLhE6TAjbg3hLA8) with the dataset you've chosen.
+- **4pm**: 10-minute lightning talks where you walk us through your process. **No slides necessary** -- it's fine if you'd prefer walk us through your Jupyter notebook instead, but remember you only have 10 minutes!
 - **5pm**: Make sure your project work has been pushed.
 
 ## Guidelines
 
-We know this is a short time for a project. We're not expecting anything as polished as project two or three. However, the goal is for you to have something to show for your time. At a minimum, do some EDA and have at least two models fit and scored.
+We know this is a short time for a project. We're not expecting anything as polished as projects two, three or four. However, the goal is for you to have something to show for your time. At a minimum, do some EDA and have at least two models fit and scored.
 
 ## Rubric
 
